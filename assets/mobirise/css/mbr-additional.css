@@ -1596,8 +1596,13 @@ body {
 
 .cid-rdSMNc6MYv {
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 85px;
   background-color: #ffffff;
+}
+@media (max-width: 768px) {
+  .cid-rdSMNc6MYv {
+    padding-bottom: 15px;
+  }
 }
 .cid-rdSMNc6MYv .mbr-section-subtitle {
   color: #767676;
