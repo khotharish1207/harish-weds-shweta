@@ -1373,6 +1373,9 @@ body {
 .cid-qIia8mgjVj {
   background-image: url("../../../assets/images/header.jpg");
 }
+.cid-qIia8mgjVj:before {
+  background: rgba(0,0,0,.5);
+}
 .cid-qIieWoha50 {
   padding-top: 60px;
   padding-bottom: 45px;
